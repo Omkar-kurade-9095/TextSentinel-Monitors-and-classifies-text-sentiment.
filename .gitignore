@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+myenv/
+
+# IDEs
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+
+# Optional: Data or logs
+*.log
+data/
+saved_models/
